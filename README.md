@@ -1,16 +1,11 @@
 # parallex_scrolling
 
-A new Flutter project.
+This is a Flutter Project on Parallex Scrolling with overlapping text.
+This is for educational purposes so feel free to use my code and create new projects!
+However, if you use the code for educational purposes too, please refer to my Youtube video so I know that my content is good!
+Youtube video: https://www.youtube.com/watch?v=TVvFT2DDJW4
 
-## Getting Started
+## Here are some screenshots!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://raw.githubusercontent.com/iamspyros/Parallex-Scrolling/master/images/2.png)
+![alt text](https://raw.githubusercontent.com/iamspyros/Parallex-Scrolling/master/images/1.png)
