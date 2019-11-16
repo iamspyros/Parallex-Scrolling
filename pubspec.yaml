@@ -40,7 +40,6 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-   - assets/photo1.png
    - assets/photo6.png
    - assets/photo7.png
    - assets/photo3.png
